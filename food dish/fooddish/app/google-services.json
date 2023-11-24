@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069904815847",
+    "project_id": "dish-delight-bf9d7",
+    "storage_bucket": "dish-delight-bf9d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069904815847:android:7c3d4e24cedd7f02496442",
+        "android_client_info": {
+          "package_name": "com.example.fooddish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYeZ90LplD7aZArKL8HESO_fDPN9mJg7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

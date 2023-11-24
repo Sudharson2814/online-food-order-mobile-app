@@ -1,0 +1,235 @@
+[
+    {
+      "name":"Domino's Pizza",
+      "address":"66, Ground Floor, Katpadi Main Road, Kalinjur, Gandhi Nagar, Vellore",
+      "delivery_charge": 30,
+      "image":"https://imgs.search.brave.com/Z336qq-YPcb6Cm7uhTilvOJO4ymz6NYuXaUxehSNR28/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jYWNo/ZS5kb21pbm9zLmNv/bS9pbnRsL2Fzc2V0/cy9pbWctbG9nby1o/b21lLnBuZw",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Spaghetti",
+          "price": 100.00,
+          "url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/17/1/FN_Simple-Spaghetti-with-Tomato-Sauce_s4x3.jpg.rend.hgtvcom.826.620.suffix/1408069256188.jpeg"
+        },
+        {
+          "name": "Spaghettios Pizza",
+          "price": 130.99,
+          "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1"
+        },
+        {
+          "name": "Chocolate Pizza",
+          "price": 499.99,
+          "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+        },
+        {
+          "name": "Cheese Sticks",
+          "price": 549,
+          "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+        },
+        {
+          "name": "CHICKEN FINGER SANDWICH",
+          "price": 400,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "FINGERZ BOXED LUNCH",
+          "price": 325,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "HOUSE ZALAD BOXED",
+          "price": 549,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "COBB ZALAD BOXED",
+          "price": 399,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "COOKIE AND BROWNIE ",
+          "price": 90,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "BROWNIE PLATTER",
+          "price": 69,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+        }
+      ]
+    },
+    {
+      "name":"Slim's Hotdogs",
+      "address":"30 Elango salai,Thiruvalluvar nagar,Salavenpet,Vellore",
+      "delivery_charge": 40,
+      "image":"https://i.ebayimg.com/images/g/LCUAAOSwgYlcvCtg/s-l1600.jpg",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Hot Dog",
+          "price": 20.99,
+          "url": "https://awrestaurants.com/sites/default/files/hotdog_0.png"
+        },
+        {
+          "name": "Midway Monster",
+          "price": 59.44,
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2KzBUdwZjGoJIWIqHGHDozwcr3_oGrkhYQ&usqp=CAU"
+        },
+        {
+          "name": "Fries",
+          "price": 29.00,
+          "url": "https://images.fineartamerica.com/images-medium-large-5/crinkle-cut-french-fries-full-frame-foodcollection.jpg"
+        },
+        {
+          "name": "Milkshake",
+          "price": 39.49,
+          "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+        },
+        {
+          "name": "Chocolate Shake",
+          "price": 49.95,
+          "url": "https://insanelygoodrecipes.com/wp-content/uploads/2021/07/Homemade-Chocolate-Shake-with-Cherry-and-Whipped-Cream-768x1152.webp"
+        },
+        {
+          "name": "Strawberry Shake",
+          "price": 39.59,
+          "url": "https://www.allrecipes.com/thmb/12nsLvmYl1aDEddak-Qmkb9byLY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Delicious-Healthy-Strawberry-Shake-Yoly-2000-7a3028d448b743ffaa7a378a53cf6376.jpg"
+        },
+        {
+          "name": "Filet-O-Fish",
+          "price": 59.49,
+          "url": "https://www.spoonforkbacon.com/wp-content/uploads/2023/04/fish-filet-sandwich-closer-1153x1536.jpg"
+        },
+        {
+          "name": "McNuggets",
+          "price": 39.99,
+          "url": "https://imgs.search.brave.com/4LGOcmwk4hNR-gssIY1LFLfNfbflQUAGrf4n4Y3nqLQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Zm9vZGFuZHdpbmUu/Y29tL3RobWIvMjVr/N0lES3hOUEo5akhT/SGdCY0xTWjVTX2xj/PS8xNTAweDAvZmls/dGVyczpub191cHNj/YWxlKCk6bWF4X2J5/dGVzKDE1MDAwMCk6/c3RyaXBfaWNjKCkv/U3BpY3ktTWNOdWdn/ZXRzLUFyZS1CYWNr/LWF0LU1jRG9uYWxk/cy1GVC1CTE9HMDky/My00MzEzOWJkZWIw/ODc0ZmM1OWFmMWFi/ZDQ4ZTVjNWUzNC5q/cGc"
+        },
+        {
+          "name": "Combo Meal",
+          "price": 89.29,
+          "url": "https://imgs.search.brave.com/iIz2nVVI6_rKUl4Yf0af2zUJAC50bSICuO4v1rHWViI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tY2Rv/bmFsZHMuY29tLmhr/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIy/LzA4LzAxTUNEMjIw/ODAyNTZfMjAyMi1C/ZXN0LUJ1cmdlcl9N/ZWFsLVByb2R1Y3Qt/SW1hZ2VzXzUwMHg1/MDAtNC5wbmc"
+        },
+        {
+          "name": "McMuffin Meal",
+          "price": 69.99,
+          "url": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-EggMcMuffinMeal-Apple-and-Grape-fruit-Bag:product-header-mobile?wid=829&hei=478&dpr=off"
+        }
+      ]
+    },
+  {
+    "name":"McDonald's",
+    "address":"Unit 1, Ground Floor, Asokan Plaza, Selvam Nagar, 151-VIT College Road, Katpadi, Vellore",
+    "delivery_charge": 30,
+    "image":"https://imgs.search.brave.com/F1TS8iBnDgiM3W8riLKUUiK-YYRg6KZ65VbvCwVeZ4k/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/bG9nb2pveS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTgv/MDUvMzAxNTE1NTAv/MTMxNy03Njh4NTkx/LnBuZw",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chocolate Shake",
+        "price": 90,
+        "url": "https://insanelygoodrecipes.com/wp-content/uploads/2021/07/Homemade-Chocolate-Shake-with-Cherry-and-Whipped-Cream-768x1152.webp"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 59,
+        "url": "https://www.allrecipes.com/thmb/12nsLvmYl1aDEddak-Qmkb9byLY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Delicious-Healthy-Strawberry-Shake-Yoly-2000-7a3028d448b743ffaa7a378a53cf6376.jpg"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 70,
+        "url": "https://www.spoonforkbacon.com/wp-content/uploads/2023/04/fish-filet-sandwich-closer-1153x1536.jpg"
+      },
+      {
+        "name": "McNuggets",
+        "price": 99,
+        "url": "https://imgs.search.brave.com/4LGOcmwk4hNR-gssIY1LFLfNfbflQUAGrf4n4Y3nqLQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Zm9vZGFuZHdpbmUu/Y29tL3RobWIvMjVr/N0lES3hOUEo5akhT/SGdCY0xTWjVTX2xj/PS8xNTAweDAvZmls/dGVyczpub191cHNj/YWxlKCk6bWF4X2J5/dGVzKDE1MDAwMCk6/c3RyaXBfaWNjKCkv/U3BpY3ktTWNOdWdn/ZXRzLUFyZS1CYWNr/LWF0LU1jRG9uYWxk/cy1GVC1CTE9HMDky/My00MzEzOWJkZWIw/ODc0ZmM1OWFmMWFi/ZDQ4ZTVjNWUzNC5q/cGc"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 299,
+        "url": "https://imgs.search.brave.com/iIz2nVVI6_rKUl4Yf0af2zUJAC50bSICuO4v1rHWViI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tY2Rv/bmFsZHMuY29tLmhr/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIy/LzA4LzAxTUNEMjIw/ODAyNTZfMjAyMi1C/ZXN0LUJ1cmdlcl9N/ZWFsLVByb2R1Y3Qt/SW1hZ2VzXzUwMHg1/MDAtNC5wbmc"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 339,
+        "url": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-EggMcMuffinMeal-Apple-and-Grape-fruit-Bag:product-header-mobile?wid=829&hei=478&dpr=off"
+      }
+    ]
+  },
+  {
+    "name":"Subway",
+    "address":"66/5, Katpadi To Vellore Main Road, Beside Vasan ENT Clinic, Katpadi, Vellore",
+    "delivery_charge": 30,
+    "image":"https://subway.in/static/media/subway-logo.7057e05751761ed36fbb.png",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 49.00,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 39.25,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "HOUSE ZALAD BOXED",
+        "price": 59.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COBB ZALAD BOXED",
+        "price": 30.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COOKIE AND BROWNIE ",
+        "price": 80.09,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "BROWNIE PLATTER",
+        "price": 60.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      }
+    ]
+  }
+
+
+
+]
